@@ -1,0 +1,42 @@
+_repo: The-History-of-Napoleon-Buonaparte_17579
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lockhart, J. G. (John Gibson)
+    aliases:
+    - Bull, John
+    - Lockhart, John Gibson
+    - Morris, Peter
+    birthdate: 1794
+    deathdate: 1854
+    gutenberg_agent_id: '7470'
+    url: http://www.gutenberg.org/2009/agents/7470
+    wikipedia: http://en.wikipedia.org/wiki/John_Gibson_Lockhart
+description: '"Nations yet to come will look back upon his history as to some grand
+  and supernatural romance. The fiery energy of his youthful career, and the magnificent
+  progress of his irresistible ambition, have invested his character with the mysterious
+  grandeur of some heavenly appearance; and when all the lesser tumults and lesser
+  men of our age shall have passed away into the darkness of oblivion, history will
+  still inscribe one mighty era with the majestic name of Napoleon.". These enthusiastic
+  words, too, are Lockhart''s, though they are not from this history, but from some
+  "Remarks o.'
+gutenberg_bookshelf:
+- France
+- Napoleonic(Bookshelf)
+gutenberg_issued: '2006-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17579'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Kings and rulers -- Biography'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821'
+- !lcc 'DC'
+title: The History of Napoleon Buonaparte
+url: http://www.gutenberg.org/ebooks/17579
